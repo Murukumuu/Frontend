@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        I was changed!!
+        I was changed, Hehe! &#128540;
       </p>
     </div>
   );
